@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <pizza>
- I'm confused
+  <cheese>Mozarella</cheese>
+  <crust>Gluten Free</crust>
+  <price>$10.00</price>
+  <sauce>tomato</sauce>
 </pizza>
 
 
