@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<contacts>
+    
+    <contact>
+      <first_name>Kory</first_name>
+      <last_name>Leavitt</last_name>
+      <address>
+          <city>Chandler</city>
+          <state>AZ</state>
+      </address>
+    </contact>
+    
+    <contact>
+      <first_name>Kory</first_name>
+      <last_name>Leavitt</last_name>
+      <email>kory.leavitt@lifecycleskills.com</email>
+    </contact>
+    
+</contacts>
