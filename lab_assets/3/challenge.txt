@@ -1,1 +1,1 @@
-Certificate Aurhority: VeriSign -BL
+Location: https://www.paypal.com/ -BL
