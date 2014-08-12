@@ -1,12 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<contact>
-  <first_name>Kory</first_name>
-  <last_name>Leavitt</last_name>
-  <address>
-      <city>Chandler</city>
-      <state>AZ</state>
-      <zip>85224</zip>
-  </address>
-  
-</contact>
+<contact/>
