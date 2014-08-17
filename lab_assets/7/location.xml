@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<location>
+    <!--- 
+    Created: 8/16/14
+    Details: Boris Badenov Was Here!
+    --->
+    <gps-coordinates>
+        
+        <gps-coordinate>
+            <latitude>48.820428</latitude>
+            <longitude>-125.903320</longitude>
+        </gps-coordinate>
+        
+        <gps-coordinate>
+            <latitude>48.755736</latitude>
+            <longitude>-116.213379</longitude>
+        </gps-coordinate>
+        
+        <gps-coordinate>
+            <latitude>21.825489</latitude>
+            <longitude>-116.213379</longitude>
+        </gps-coordinate>
+        
+        <gps-coordinate>
+            <latitude>21.825489</latitude>
+            <longitude>-125.903320</longitude>
+        </gps-coordinate>
+        
+    </gps-coordinates>
+    
+    <region>Western USA</region> <!--- continental USA --->
+    <time-zone>PST</time-zone>
+    
+    <sales-rep>
+        <first-name>John</first-name>
+        <last-name>Doe</last-name>
+    </sales-rep>
+    
+</location>
