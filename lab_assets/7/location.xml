@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <location>
-    <!--- 
+    <!-- 
     Created: 8/16/14
     Details: Boris Badenov Was Here!
-    --->
+    -->
     <gps-coordinates>
         
         <gps-coordinate>
@@ -29,7 +29,7 @@
         
     </gps-coordinates>
     
-    <region>Western USA</region> <!--- continental USA --->
+    <region>Western USA</region> <!-- continental USA -->
     <time-zone>PST</time-zone>
     
     <sales-rep>
