@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<contact>
+<contact id="1" exportDate="05-10-2014">
 
     <first_name>John</first_name>
     <last_name>Doe</last_name>
+    <email>johndoe@lifecycleskills.com</email>
     
-    <addresses>
-    
-        <address>
-            <city>Chandler</city>
-            <state>AZ</state>
-            <zip>85224</zip>
-        </address>
-        
-        <address>
-            <city>Mesa</city>
-            <state>AZ</state>
-            <zip>85210</zip>
-        </address>
-        
-    </addresses>
-    
-    <emails>
-    
-        <email>kory.leavitt@lifecycleskills.com</email>
-        <email>kory.leavitt@lifecycleskills.com</email>
-        <email>kory.leavitt@lifecycleskills.com</email>
-        <email>kory.leavitt@lifecycleskills.com</email>
-    
-    </emails>
-
 </contact>
